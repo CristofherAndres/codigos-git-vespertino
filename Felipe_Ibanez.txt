@@ -1,0 +1,7 @@
+Mi primer cuento en Git
+Capitulo 1
+
+	A la lejania se podia ver como la oscuridad se asomaba
+	tras la densa bruma de las montañas, el cielo rugia estremecido 
+	con gritos de terror y panico,
+	El cazador de Dioses Tifon a llegado...
